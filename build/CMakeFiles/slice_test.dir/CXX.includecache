@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/myldb/slice.h
+assert.h
+-
+stddef.h
+-
+string.h
+-
+string
+-
+
+/home/drz/Program/myldb/test/slice_test.cc
+iostream
+-
+myldb/slice.h
+/home/drz/Program/myldb/test/myldb/slice.h
+

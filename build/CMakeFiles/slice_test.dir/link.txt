@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/slice_test.dir/test/slice_test.cc.o  -o slice_test libmyldb.a 

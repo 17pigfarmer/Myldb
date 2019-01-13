@@ -1,0 +1,21 @@
+Start testing: Dec 03 23:18 CST
+----------------------------------------------------------
+1/1 Testing: slice_test
+1/1 Test: slice_test
+Command: "/home/drz/Program/myldb/build/slice_test"
+Directory: /home/drz/Program/myldb/build
+"slice_test" start time: Dec 03 23:18 CST
+Output:
+----------------------------------------------------------
+Slice is 15long.
+ is 
+1
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"slice_test" end time: Dec 03 23:18 CST
+"slice_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 03 23:18 CST

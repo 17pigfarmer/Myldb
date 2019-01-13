@@ -1,0 +1,6 @@
+/home/drz/Program/myldb/build/CMakeFiles/edit_cache.dir
+/home/drz/Program/myldb/build/CMakeFiles/test.dir
+/home/drz/Program/myldb/build/CMakeFiles/rebuild_cache.dir
+/home/drz/Program/myldb/build/CMakeFiles/encoding_test.dir
+/home/drz/Program/myldb/build/CMakeFiles/myldb.dir
+/home/drz/Program/myldb/build/CMakeFiles/slice_test.dir

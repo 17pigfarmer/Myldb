@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/encoding_test.dir/test/encoding_test.cc.o  -o encoding_test libmyldb.a 

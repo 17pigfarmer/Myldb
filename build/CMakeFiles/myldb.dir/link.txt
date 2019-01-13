@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmyldb.a  
+/usr/bin/ranlib libmyldb.a
