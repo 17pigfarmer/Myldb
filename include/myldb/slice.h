@@ -1,5 +1,5 @@
-#ifndef STORAGE_LEVELDB_INCLUDE_SLICE_H_
-#define STORAGE_LEVELDB_INCLUDE_SLICE_H_
+#ifndef PROGRAM_MYLDB_INCLUDE_SLICE_H_
+#define PROGRAM_MYLDB_INCLUDE_SLICE_H_ 
 
 #include <assert.h>
 #include <stddef.h>
@@ -99,4 +99,4 @@ inline int Slice::compare(const Slice& b) const {
 
 } // namespace myldb
 
-#endif  // STORAGE_LEVELDB_INCLUDE_SLICE_H_
+#endif  // PROGRAM_MYLDB_INCLUDE_SLICE_H_ 
